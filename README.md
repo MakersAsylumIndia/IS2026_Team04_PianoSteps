@@ -23,7 +23,7 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 
 ## 📬 Contact/Team
 
-> _List team members and contact emails or GitHub profiles._
+> _List team members and contact emails or GitHub profiles._<br/>
 > [@anool](https://github.com/Anool)<br/>
 > [@Amaan-7860](https://github.com/Amaan-7860)<br/>
 > [gurudevkorade-pixel ](https://github.com/gurudevkorade-pixel)<br/>
