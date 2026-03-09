@@ -24,7 +24,10 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 ## 📬 Contact/Team
 
 > _List team members and contact emails or GitHub profiles._
-[@anool](https://github.com/Anool)
-> 
+> [@anool](https://github.com/Anool)
+> [@Amaan-7860](https://github.com/Amaan-7860)
+> [gurudevkorade-pixel ](https://github.com/gurudevkorade-pixel)
+> [razinasayyed87-byte](https://github.com/razinasayyed87-byte)
+> [Dakshat](https://github.com/dakshatt) 
 >
 > ---
