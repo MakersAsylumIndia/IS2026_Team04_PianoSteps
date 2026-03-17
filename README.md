@@ -1,8 +1,6 @@
-# IS2026 Spring - NAME OF PROJECT
+# IS2026 Spring - Team 04 - Piano Steps
 
-Describe the project.
-Describe what are the contents of each folder - CODE, CAD, Electronics etc
-
+We built a prototype for a large musical keyboard which can be mounted on steps or corridors. We experimented with various sensors - piezo, [Velostat](https://en.wikipedia.org/wiki/Velostat), ultrasonic, laser+LDR etc. For the first scale prototype, we used piezo elements sandwiched between two laser cut 3mm plywood sheets. In between the two plywood sheets, we added a layer of white foam for springiness and to help protect the piezo elements. We built one octave using 8 piezo elements connected to an arduino nano. On the output, we connected an ordinary buzzer.
 
 ## License
 
@@ -24,6 +22,7 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 ## 📬 Contact/Team
 
 > _List team members and contact emails or GitHub profiles._<br/>
+> [Maker's Asylum](https://github.com/makersasylum)<br/>
 > [@anool](https://github.com/Anool)<br/>
 > [@Amaan-7860](https://github.com/Amaan-7860)<br/>
 > [gurudevkorade-pixel ](https://github.com/gurudevkorade-pixel)<br/>
